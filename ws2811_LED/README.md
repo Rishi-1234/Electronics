@@ -1,4 +1,4 @@
-# Episode 5 - Multiple patterns
+# Multiple patterns
 It is often useful to have multiple patterns, and to be able to switch between them on a timer or via a button press. Here we will discover how to do just that!
 - Writing patterns as functions in the same sketch
 - Using a timer or button to switch between patterns
